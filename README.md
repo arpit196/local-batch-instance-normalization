@@ -9,4 +9,4 @@ python run-mnist.py
 ```
 
 A comparison of the robustness of our model under different corruptions:
-![alt text](https://imgur.com/pdpXoRm)
+![alt text](https://imgur.com/pdpXoRm.png)
