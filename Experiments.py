@@ -177,7 +177,7 @@ def train(model,path,epochs=100,learning_rate=0.1):
 def main():
     vgg19 = VGG16_lbin()
     train(vgg19,path='LBIN_model',epochs=200)
-    return 'Hi'
+    return 0
     
 if __name__ == "__main__":
     main()
