@@ -5,7 +5,7 @@ domain shifts. We also present a comparison of the accuracy degradation of the m
 
 To run the code, execute 
 ```
-python run-mnist.py
+python Experiments.py
 ```
 
 A comparison of the robustness of our model under different corruptions:
