@@ -8,9 +8,11 @@ To run the code, execute
 python Experiments.py
 ```
 
-A comparison of the robustness of our model under different corruptions:
+A comparison of the robustness of our model under different corruptions with the other normalization scheme is done in the table below:
 
 <img src="https://imgur.com/pdpXoRm.png" width="850" height="400" alt="Descriptive Alt Text">
+
+Here BIN refers to the Batch Instance Normalization proposed in https://arxiv.org/abs/1805.07925 as a style invariant normalization technique. However, the local nature of our normalization technique allows it to outperform BIN on several image corruptions as observed from the table above.
 
 The methods for applying different Image corruptions included in the CIFAR-10-C are available in the ImageCorruptions.py file.
 
