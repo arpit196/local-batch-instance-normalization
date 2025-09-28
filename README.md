@@ -12,4 +12,6 @@ A comparison of the robustness of our model under different corruptions:
 
 <img src="https://imgur.com/pdpXoRm.png" width="850" height="400" alt="Descriptive Alt Text">
 
+The methods for applying different Image corruptions included in the CIFAR-10-C are available in the ImageCorruptions.py file.
+
 
