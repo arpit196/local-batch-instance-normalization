@@ -9,8 +9,7 @@ python Experiments.py
 ```
 
 A comparison of the robustness of our model under different corruptions:
-![alt text](https://imgur.com/pdpXoRm.png)
 
-<img src="https://imgur.com/pdpXoRm.png" width="900" height="400" alt="Descriptive Alt Text">
+<img src="https://imgur.com/pdpXoRm.png" width="850" height="400" alt="Descriptive Alt Text">
 
 
