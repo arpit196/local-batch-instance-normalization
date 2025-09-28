@@ -10,3 +10,7 @@ python Experiments.py
 
 A comparison of the robustness of our model under different corruptions:
 ![alt text](https://imgur.com/pdpXoRm.png)
+
+|Dataset|Model|Accuracy(Original Images)|Accuracy (Perturbed)|
+|-------|-----|-------------------------|--------------------|
+
