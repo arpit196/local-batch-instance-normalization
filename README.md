@@ -11,5 +11,6 @@ python Experiments.py
 A comparison of the robustness of our model under different corruptions:
 ![alt text](https://imgur.com/pdpXoRm.png)
 
-|Dataset|Model|Accuracy(Original Images)|Gaussian noise|Shot|Impulse|Zoom|Contrast|
+<img src="https://imgur.com/pdpXoRm.png" width="500" height="300" alt="Descriptive Alt Text">
+
 
